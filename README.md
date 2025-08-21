@@ -1,2 +1,2 @@
 # FRC-Team-155-Projects
-Collection of files I helped programming for my FRC team.
+Collection of files in which I helped program some of them for my FRC team.
